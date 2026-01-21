@@ -1,5 +1,5 @@
  
-## 🌐 Socials: 
+## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/toghrul.05?igsh=aHR0c2J5OGNqMWQz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/togrul-mehdiyev-ab486335a/) 
 
 # 💻 Tech Stack:
